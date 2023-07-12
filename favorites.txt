@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Cake
 Donut
 Sisig
+=======
+Twilight
+The Little Mermaid
+The Insidious
+>>>>>>> movies
